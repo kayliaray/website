@@ -24,6 +24,9 @@ $body-background-color: $beige-lighter;
 $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
+$footer-background-color: $beige-light;
+$footer-color: true;
+$footer-padding: 3rem;
 
 // Import only what you need from Bulma
 @import "../node_modules/bulma/sass/utilities/_all.sass";
@@ -38,3 +41,4 @@ $input-shadow: none;
 @import "../node_modules/bulma/sass/components/card.sass";
 @import "../node_modules/bulma/sass/layout/hero.sass";
 @import "../node_modules/bulma/sass/layout/section.sass";
+@import "../node_modules/bulma/sass/layout/footer.sass";
