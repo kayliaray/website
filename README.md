@@ -7,3 +7,7 @@ The purpose of this is to
 *Have something on Gitub
 *Be an HTML/Javascript playground
 *Learn how to **Do the things**
+
+Helpful stuff: 
+http://jsfiddle.net/Xxxd3/610/
+https://expressjs.com/en/starter/static-files.html
