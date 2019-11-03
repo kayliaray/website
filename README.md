@@ -1,3 +1,4 @@
+
 # Poodle Personality Quiz
 ## Hello World
 ---
@@ -19,6 +20,6 @@ The purpose of this is to
 
 [Serving files with Expressjs](https://expressjs.com/en/starter/static-files.html)
 
-[main.js oncick of submit](https://www.youtube.com/watch?v=C7NsIRhoWuE)
+[main.js on click of submit](https://www.youtube.com/watch?v=C7NsIRhoWuE)
 
 <sub><sup> My friends need code who do they call? I do HTML for em all. Even made a homepage for my dog, yo </sup></sub>
